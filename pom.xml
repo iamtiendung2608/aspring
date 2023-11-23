@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>tigers</groupId>
 	<artifactId>aspring</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<name>aspring</name>
 	<description>Spring Boot sample project</description>
 	<properties>
